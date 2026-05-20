@@ -1,6 +1,6 @@
 # cbt-and-erp-app-for-stephie
 Im creating an app to monitor mdd and ocd and other mental illnesses
-We are going to build this entire full-stack application completely from scratch, step-by-step. Because I want this to be a beautiful, production-ready project for MY GitHub portfolio  and help with my mental state, we will use Next.js (React), TypeScript, TailwindCSS, and Prisma with SQLite so your data is securely saved on your computer and never forgotten.
+We are going to build this entire full-stack application completely from scratch, step-by-step. Because I want this to be a beautiful, production-ready project for MY GitHub portfolio  and help with my mental state, we will use Next.js (React), TypeScript, TailwindCSS, and Prisma with SQLite so  data is securely saved on your computer and never forgotten.
 
 🛠️ The Architecture & Setup Blueprint
 First, let's look at how the entire system connects. This visual chart shows exactly how your frontend screens talk to your backend server database without using any labels.
